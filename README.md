@@ -76,3 +76,5 @@ La escala de las mejores predicciones de los 3 modelos considerados para el aná
 
 6) KNN en Test con una predicción de 95.6%
 - Del total de 455 datos, tuvo error en las predicciones de 3 Benignos que en realidad son Malignos y 2 Malignos que en realidad son Benignos
+
+*Siendo que lo más riesgoso en las predicciones de un modelo de datos médicos, como en este caso Cáncer de mama, el mejor modelo para implementar y seguir entrenando es RANDOM FOREST.*
