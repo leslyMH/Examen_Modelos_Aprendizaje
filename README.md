@@ -1,4 +1,3 @@
-# Examen_Modelos_Aprendizaje
 # Modelos y Aprendizaje
 ## Examen
 ### Planteamiento
